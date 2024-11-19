@@ -1,0 +1,15 @@
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.DataAccess\bin\Release\net8.0\ECommerce.DataAccess.deps.json
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.DataAccess\bin\Release\net8.0\ECommerce.DataAccess.dll
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.DataAccess\bin\Release\net8.0\ECommerce.DataAccess.pdb
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.DataAccess\bin\Release\net8.0\ECommerce.Core.dll
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.DataAccess\bin\Release\net8.0\ECommerce.Core.pdb
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.DataAccess\obj\Release\net8.0\ECommerce.DataAccess.csproj.AssemblyReference.cache
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.DataAccess\obj\Release\net8.0\ECommerce.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.DataAccess\obj\Release\net8.0\ECommerce.DataAccess.AssemblyInfoInputs.cache
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.DataAccess\obj\Release\net8.0\ECommerce.DataAccess.AssemblyInfo.cs
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.DataAccess\obj\Release\net8.0\ECommerce.DataAccess.csproj.CoreCompileInputs.cache
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.DataAccess\obj\Release\net8.0\ECommerc.6DA24EC5.Up2Date
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.DataAccess\obj\Release\net8.0\ECommerce.DataAccess.dll
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.DataAccess\obj\Release\net8.0\refint\ECommerce.DataAccess.dll
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.DataAccess\obj\Release\net8.0\ECommerce.DataAccess.pdb
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.DataAccess\obj\Release\net8.0\ref\ECommerce.DataAccess.dll

@@ -1,0 +1,15 @@
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.Business\bin\Debug\net8.0\ECommerce.Business.deps.json
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.Business\bin\Debug\net8.0\ECommerce.Business.dll
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.Business\bin\Debug\net8.0\ECommerce.Business.pdb
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.Business\bin\Debug\net8.0\ECommerce.Core.dll
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.Business\bin\Debug\net8.0\ECommerce.Core.pdb
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.Business\obj\Debug\net8.0\ECommerce.Business.csproj.AssemblyReference.cache
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.Business\obj\Debug\net8.0\ECommerce.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.Business\obj\Debug\net8.0\ECommerce.Business.AssemblyInfoInputs.cache
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.Business\obj\Debug\net8.0\ECommerce.Business.AssemblyInfo.cs
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.Business\obj\Debug\net8.0\ECommerce.Business.csproj.CoreCompileInputs.cache
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.Business\obj\Debug\net8.0\ECommerc.BC0F01EB.Up2Date
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.Business\obj\Debug\net8.0\ECommerce.Business.dll
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.Business\obj\Debug\net8.0\refint\ECommerce.Business.dll
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.Business\obj\Debug\net8.0\ECommerce.Business.pdb
+D:\web\backend\Projects\WebApi\RouteECommerce\ECommerce\ECommerce.Business\obj\Debug\net8.0\ref\ECommerce.Business.dll
